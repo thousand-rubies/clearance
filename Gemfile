@@ -12,7 +12,7 @@ gem 'factory_bot_rails'
 gem 'nokogiri'
 gem 'pry', require: false
 gem 'rails-controller-testing'
-gem 'rspec-rails'
+gem 'rspec-rails', '>= 6.0.0'
 gem 'shoulda-matchers'
 gem 'sqlite3'
 gem 'timecop'
