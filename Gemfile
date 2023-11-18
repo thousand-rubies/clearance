@@ -8,7 +8,7 @@ gem 'appraisal'
 gem 'capybara'
 gem 'database_cleaner'
 gem 'erb_lint', require: false
-gem 'factory_bot_rails'
+gem 'factory_bot_rails', '>= 6.3.0'
 gem 'nokogiri'
 gem 'pry', require: false
 gem 'rails-controller-testing'
