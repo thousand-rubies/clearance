@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'addressable'
-gem 'ammeter'
+gem 'ammeter', '>= 1.1.6'
 gem 'appraisal'
 gem 'capybara'
 gem 'database_cleaner'
