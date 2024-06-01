@@ -9,7 +9,7 @@ gem 'capybara'
 gem 'database_cleaner'
 gem 'erb_lint', require: false
 gem 'factory_bot_rails'
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.16.5'
 gem 'pry', require: false
 gem 'rails-controller-testing'
 gem 'rspec-rails'
