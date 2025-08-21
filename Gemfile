@@ -6,7 +6,7 @@ gem 'addressable'
 gem 'ammeter'
 gem 'appraisal'
 gem 'capybara'
-gem 'database_cleaner'
+gem 'database_cleaner', '>= 2.0.2'
 gem 'erb_lint', require: false
 gem 'factory_bot_rails'
 gem 'nokogiri'
